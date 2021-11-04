@@ -1,1 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T17:24:43.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.6.8" etag="aHDjVyzfEhNAga-RDIv2" type="github"><diagram id="xeZsLGmNSaw8-60Wp2KN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-04T17:45:22.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="9edPyqB8bHst_wScmcVZ" version="15.6.8" type="github">
+  <diagram id="xeZsLGmNSaw8-60Wp2KN" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-1" value="INPUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-2" value="INPUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-3" value="INPUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-4" target="YKGmDuffVP3zBNnmc2zV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-4" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;times new roman&amp;quot;, serif; font-size: 11px;&quot;&gt;Lokasi Fasilitas SMP Eksisting&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="100" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-5" target="YKGmDuffVP3zBNnmc2zV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-5" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Titik Lokasi Eksisting Fasilitas&lt;br/&gt;SMP di Kec. Telanaipura&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="210" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-6" target="YKGmDuffVP3zBNnmc2zV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-6" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Jumlah Penduduk Usia 13 – 15 Tahun&lt;br/&gt;di Setiap Kelurahan&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="320" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-7" target="YKGmDuffVP3zBNnmc2zV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-7" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Penggunaan Lahan di Kecamatan&lt;br/&gt;Telanaipura&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="435" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-8" target="YKGmDuffVP3zBNnmc2zV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-8" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Jaringan Jalan Lokal Kecamatan&lt;br/&gt;Telanaipura&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="545" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-9" target="YKGmDuffVP3zBNnmc2zV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-9" value="Kemiringan Lereng di Kecamatan Telanaipura" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="658" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1080" as="sourcePoint" />
+            <mxPoint x="200" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-11" target="YKGmDuffVP3zBNnmc2zV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-11" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Identifikasi Wilayah Studi&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-12" target="YKGmDuffVP3zBNnmc2zV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-12" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Analisis Jangkauan Pelayanan&lt;br/&gt;Fasilitas SMP Kecamatan Telanaipura&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-13" target="YKGmDuffVP3zBNnmc2zV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-13" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Analisis Sebaran Penduduk Usia 13 –15&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Tahun di Kecamatan Telanaipura&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-14" target="YKGmDuffVP3zBNnmc2zV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-14" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Analisis Penggunaan Lahan Kecamatan&lt;br/&gt;Telanaipura&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="435" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-15" target="YKGmDuffVP3zBNnmc2zV-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-15" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Analisis Aksesibilitas Lokasi&lt;br&gt;Fasilitas SMP Kecamatan Telanaipura&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="545" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-16" target="YKGmDuffVP3zBNnmc2zV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-16" value="Analisis Kelas Kemiringan Lereng di Kecamatan Telanaipura" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="658" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1080" as="sourcePoint" />
+            <mxPoint x="440" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-18" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Sebaran Fasilitas SMP Eksisting&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-19" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Jangkauan Pelayanan Fasilitas SMP&lt;br/&gt;Kecamatan Telanaipura&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="360.33333333333326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-20" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Sebaran Penduduk Usia 13 – 15 Tahun&lt;br/&gt;di Kecamatan Telanaipura&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-21" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Jenis Penggunaan Lahan Kecamatan&lt;br/&gt;Telanaipura&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="435" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="585.6666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-22" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Aksesibilitas Lokasi Fasilitas SMP&lt;br/&gt;Kecamatan Telanaipura&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="545" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="698" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-23" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;font face=&quot;times new roman, serif&quot;&gt;Tingkat Kemiringan Lereng di Kecamatan Telanaipura&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="658" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-40" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="700" as="sourcePoint" />
+            <mxPoint x="680" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-41" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="520" as="sourcePoint" />
+            <mxPoint x="760" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-42" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="800" as="sourcePoint" />
+            <mxPoint x="760" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-43" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="800" as="sourcePoint" />
+            <mxPoint x="760" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-44" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="800" as="sourcePoint" />
+            <mxPoint x="320" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;endArrow=classic;endFill=1;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-45" target="YKGmDuffVP3zBNnmc2zV-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-45" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Analisis Lokasi Optimal Fasilitas&lt;br/&gt;SMP Kecamatan Telanaipura Berdasarkan Aspek Lokasi dan Pola Ruang&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="820" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;endArrow=classic;endFill=1;" edge="1" parent="1" source="YKGmDuffVP3zBNnmc2zV-46" target="YKGmDuffVP3zBNnmc2zV-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-46" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Lokasi Optimal Fasilitas SMP&lt;br/&gt;Kecamatan Telanaipura Berdasarkan Aspek Lokasi dan Pola Ruang&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="530" y="820" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YKGmDuffVP3zBNnmc2zV-48" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Kesimpulan dan Rekomendasi&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="530" y="940" width="155" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
